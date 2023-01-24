@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sadihussein97@gmail.com**
 
-- ⚡ Fun fact **I am a back-bench rock star !**
+- ⚡ Fun fact **I am a back bench rock star !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
