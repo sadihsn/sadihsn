@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQzZzBrMTBmbjMwcnZucm11M2w1cGliNHBzcjZyMGdxMGNld2plYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif)
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Sadi Hossain</h1>
 <h3 align="center">I'm a data-driven problem solver,untangling business puzzles like a digital detective.</h3>
