@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadi Hossain</h1>
-<h3 align="center">Passionate about tech-focused solutions that people genuinely love.</h3>
+<h3 align="center">I'm a data-driven problem solver,untangling business puzzles like a digital detective.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadihsn97&label=Profile%20views&color=0e75b6&style=flat" alt="sadihsn97" /> </p>
 
