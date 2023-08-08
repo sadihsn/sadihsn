@@ -1,4 +1,4 @@
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+<iframe src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MyShipper-bigdata-datascience-analisis-nNOAPjUdo4mpZFkDf8">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Sadi Hossain</h1>
 <h3 align="center">I'm a data-driven problem solver,untangling business puzzles like a digital detective.</h3>
