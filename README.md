@@ -1,3 +1,5 @@
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+
 <h1 align="center">Hi 👋, I'm Sadi Hossain</h1>
 <h3 align="center">I'm a data-driven problem solver,untangling business puzzles like a digital detective.</h3>
 
