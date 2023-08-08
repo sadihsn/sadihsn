@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sadihussein97@gmail.com**
 
-- ⚡ Fun fact **I am a wannabe data rock star !**
+- ⚡ Fun fact **I am a wannabe data Rock Star !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
