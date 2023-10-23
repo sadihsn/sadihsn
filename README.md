@@ -1,7 +1,7 @@
 ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Sadi Hossain</h1>
-<h3 align="center">I'm a data-driven problem solver,untangling business puzzles like a digital detective.</h3>
+<h3 align="center">I love breaking down business problems with data into simple,easy-to-understand solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadihsn97&label=Profile%20views&color=0e75b6&style=flat" alt="sadihsn97" /> </p>
 
