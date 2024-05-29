@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,Business Analytics,Data Science etc**
 
-- 📫 How to reach me **sadihussein97@gmail.com**
+- 📫 How to reach me **sadihsn97@gmail.com**
 
 - ⚡ Fun fact **I am a wannabe data Rock Star !**
 
