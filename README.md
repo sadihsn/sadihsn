@@ -7,7 +7,7 @@
 
 - 🌱 I do research on **Data Science**
 
-- 💬 Ask me about **Python,Business Analytics,Data Science etc**
+- 💬 Ask me about **Business Analytics,Data Science,Web Development etc**
 
 - 📫 How to reach me **sadihsn97@gmail.com**
 
